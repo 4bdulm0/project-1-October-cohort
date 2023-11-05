@@ -1,0 +1,122 @@
+.Freeshipping{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 25px;
+   margin-bottom: 0px;
+   padding: 10px;
+ 
+}
+
+.NavBar{
+   
+    margin-top: 10px;
+}
+
+.OlNavBar{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.LiNavBar{
+    display: block;
+    padding: 10px 15px;
+    margin-top: 15px;
+}
+
+
+.iconNav{
+    height: 35px;
+    width: 35px;
+}
+
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.flex-container img{
+    height: 500px;
+    width: 400px;
+    border: black ; 
+}
+
+footer{
+    background-color: grey;
+    color: white;
+    display: flex;
+    margin-bottom: 0px;
+}
+
+.FooterQuote{
+    width: 55%;
+    padding: 10px;
+}
+
+.FooterNav{
+    width: 50%;
+    padding: 10px;
+}
+
+.FooterNavBar{
+    list-style-type: none;
+}
+
+.LiFooter{
+    display: block;
+    padding: 10px 15px;
+}
+
+.SocialMedia{
+    margin-left: 545px;
+}
+
+.iconFooter{
+    height: 20px;
+    width: 20px;
+    padding: 10px 15px;
+}
+
+
+.mainProfile{
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+
+#top{
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+    color: white;
+}
+
+#link{
+    
+    text-align: center;
+    background-color: white;
+    padding: 1px;
+    width: 30%;
+    height: 70%;
+
+}
+
+.flex-container{
+    text-align: centre;
+    display: flex;
+    justify-content: space-around;
+    width: 75%;
+    margin-right: 50%;
+}  
+
+b h2{
+    text-align: center;
+}
+
+span{
+    color: blueviolet;
+  
+}
